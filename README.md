@@ -67,7 +67,7 @@ class Gurappa:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO-LINK">
+<a href="https://github.com/Gurappa41">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -316,11 +316,11 @@ Python • Django • HTML • CSS • Bootstrap • JavaScript • REST API
 
 <!-- Add your own profile links, or delete this section -->
 
-<a href="https://leetcode.com/u/YOUR-USERNAME/">
+<a href="https://leetcode.com/u/Gurappa_Avula/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/YOUR-USERNAME">
+<a href="https://www.hackerrank.com/profile/gurviraj45">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 

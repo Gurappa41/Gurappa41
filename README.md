@@ -310,16 +310,6 @@ Python • Django • HTML • CSS • Bootstrap • JavaScript • REST API
 
 </div>
 
-# 🐍 Contribution Snake
-
-<!-- Requires the snake GitHub Action set up in your Gurappa41/Gurappa41 repo (creates the "output" branch) -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gurappa41/Gurappa41/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 # 💻 Coding Profiles
 
 <div align="center">
